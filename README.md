@@ -28,6 +28,9 @@ snoti.boot.authSecret=xxx
 snoti.boot.subkey=client
 snoti.boot.events=xxxxx
 
+#扩展配置
+snoti.boot.productKeyEventSplit=&
+snoti.boot.eventSplit=,
 ```
 
 

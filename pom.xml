@@ -4,7 +4,7 @@
 
     <groupId>com.gizwits</groupId>
     <artifactId>snoti-spring-boot-starter</artifactId>
-    <version>0.1.6</version>
+    <version>0.1.7</version>
     <packaging>jar</packaging>
     <description>spring-boot-starer for Snoti</description>
     <name>snoti-spring-boot-starter</name>

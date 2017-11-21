@@ -9,7 +9,7 @@ snoti-spring-boot-starter
  <dependency>
      <groupId>com.gizwits</groupId>
      <artifactId>snoti-spring-boot-starter</artifactId>
-     <version>0.1.6</version>
+     <version>0.1.7</version>
  </dependency>
 
 ```
